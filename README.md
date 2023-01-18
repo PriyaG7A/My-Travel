@@ -1,10 +1,7 @@
-# My-Travel
-# Travel India
-# I am going to tell you about travels and i know many of you people are thinking that why should we travel in the world because here are some benifits of travelling         
-#INDIA TRAVELLES
-
-#Hi,i am priya gambhir of class 7-a.
-#Why Travel 
+# Travel The World
+# Hi,i am Priya Gambhir of class 7-A.
+# I am going to tell you about travels and i know many of you people are thinking that why should we travel in the world because here are some benifits of travelling   
+# Why Travel 
 
 1.WE CAN SEE THEIR CULTURE,TRADITION,LANGUAGE ETC
 2.WE CAN ENHACE OUR CREATIVITY
@@ -15,7 +12,7 @@
 
 Some Locations you shall Travel
 
-#DUBAI
+# DUBAI
 IF WE HAVE TO GO TO DUBAI THEN WE WILL GO BY PLANE AND HERE ARE SOME FACTS ABOUT DUBAI
 
 1.IT IS A VERY YOUNG CITY
@@ -24,7 +21,7 @@ IF WE HAVE TO GO TO DUBAI THEN WE WILL GO BY PLANE AND HERE ARE SOME FACTS ABOUT
 4.IT HAS ROBOTS AS JOCKEYS
 5.IT HAS MUSEUM DEDICATED TO COFFEE        
 
-#LONDON  
+# LONDON  
 IF WE HAVE TO TRAVELL TO LONDON THEN WE WILL GO BY PLANE AND HERE ARE SOME FACTS ABOUT LONDON 
 
 1.IT HAS 170 MUSEUMS
@@ -33,7 +30,7 @@ IF WE HAVE TO TRAVELL TO LONDON THEN WE WILL GO BY PLANE AND HERE ARE SOME FACTS
 4.SMALLEST STATUE IN THE WORLD IS BUILT IN LONDON  
 5.THE TOWER OF LODON HAS 6 RAVENS
 
-#UNITED STATES OF AMERICA
+# UNITED STATES OF AMERICA
 
 IF WE HAVE TRAVELL TO AMERICA THEN WE WILL HAVE TO GO BY PLANE AND HERE ARE SOME FACTS ABOUT AMERICA
 1.AMERICA IS HOME TO MANY NATURAL WONDERS
